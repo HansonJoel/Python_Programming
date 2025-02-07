@@ -1,5 +1,5 @@
 '''
-With the else statement 
+The else statement specifies a block of code to be executed once a loop is finished
 '''
 
 i = 1
