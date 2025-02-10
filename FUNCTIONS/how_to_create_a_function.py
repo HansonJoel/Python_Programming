@@ -5,13 +5,13 @@ are also useful if you find yourself writing the same code at several different 
 code
 note: Always define your function first before you make a call statement.
 syntax : def function_name():
-					statements
+			statements
 """
 # Example 1
 def greeting():
 	print("Good morning")
 	
-greeting()  # this is a call statement
+greeting()  # this is a function call
 
 # Example 2
 def print_hello():
