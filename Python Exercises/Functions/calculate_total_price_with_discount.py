@@ -7,7 +7,6 @@ def calculate_total_price(price, discount_percentage=0):
     
 
 price = int(input("Kindly enter your Bill: "))
-# eligibility= input("Does Customer qualify for discount (Y/N): ")
 
 discount_percentage = 0
 if price >= 500:
