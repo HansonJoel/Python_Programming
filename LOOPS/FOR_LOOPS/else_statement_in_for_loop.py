@@ -1,5 +1,5 @@
 ''''
-The else statement specifies a block of code to be executed once a loop is finished
+The else statement specifies a block of code to be executed once a loop has executed successfully
 '''
 
 for i in range(6):
